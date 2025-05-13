@@ -1,51 +1,43 @@
-# 👋 Hi, I’m Vincent Dunlop — Welcome to My GitHub
+![Profile_Brain](https://github.com/user-attachments/assets/5d69f58a-1a5e-4ae7-9408-28930da05d7a)
 
-With 20+ years of experience in **clinical research**, medical innovation, and global health project leadership, I’m now pivoting into the world of **data science and artificial intelligence**. My journey is rooted in evidence-based practice, systems thinking, and a drive to improve outcomes through smarter decision-making.
+# 👋 Hi, I’m Vincent Dunlop — Welcome to My GitHub!
 
----
+🔬 With a career rooted in **clinical research and global health innovation**, I'm now transitioning into the world of **data science** and **artificial intelligence** — driven by a passion to apply advanced tools to complex, real-world challenges.
 
-## 🧭 Current Focus
-
-🎓 I’m completing a **Master of Engineering in Interdisciplinary Artificial Intelligence**, with a concentration in:
-
-- 🔹 Systems Optimization  
-- 🔹 Data Science & Machine Learning  
-- 🔹 Responsible and Ethical AI  
-
-My goal is to apply these skills to complex, high-impact problems — particularly in healthcare, finance, and strategic operations.
+Currently enrolled in a **Master of Engineering in Interdisciplinary Artificial Intelligence**, I’m building a strong foundation in optimization, systems design, and ethical AI to complement decades of experience in life sciences and research consulting.
 
 ---
 
-## 🛠️ What I’m Building
+## 🚀 What I’m Working On
 
-- 🧮 Linear programming models with **PuLP** & **Python**
-- 📊 Optimization dashboards & visualizations with **matplotlib** & **ipywidgets**
-- 🧠 Exploratory projects in decision-making, risk modeling, and resource allocation
-- 🤖 A toolkit of reusable, interpretable AI solutions for real-world challenges
+- 📦 Linear programming models for decision-making and resource allocation  
+- 📊 Data analysis, visualization, and dashboard design with Python  
+- 🤖 Scenario-based optimization using PuLP + Jupyter Notebooks  
+- 🧠 Capstone planning: AI-powered tools for evidence-based operations
 
 ---
 
-## 📂 Featured Repositories
+## 🧰 Featured Repositories
 
 | Repository | Description |
 |------------|-------------|
-| [AI-Optimization-Playground](https://github.com/VDDQuest/AI-Optimization-Playground) | A growing collection of linear programming models and scenario planners using PuLP |
-| [VDDQuest.github.io](https://vddquest.github.io) | Personal portfolio site with project highlights and resume |
-| [DataScienceTester](https://github.com/VDDQuest/DataScienceTester) | Practice notebooks for Python, pandas, and data workflows |
-| [Training-Practice](https://github.com/VDDQuest/Training-Practice) | Introductory exercises in Python and applied analytics |
+| [AI-Optimization-Playground](https://github.com/VDDQuest/AI-Optimization-Playground) | A growing toolkit of linear programming models using PuLP & Python |
+| [VDDQuest.github.io](https://vddquest.github.io) | My portfolio website with links to resume, projects, and GitHub |
+| [DataScienceTester](https://github.com/VDDQuest/DataScienceTester) | Practice repo for Python, pandas, matplotlib, and exploratory tools |
+| [Training-Practice](https://github.com/VDDQuest/Training-Practice) | Personal learning journal for core programming & data workflows |
 
 ---
 
-## 🌍 A Bit About Me
+## 🧬 Background Snapshot
 
-- 💼 Former **clinical research consultant** with expertise in global trials, regulatory strategy, and data-driven reporting
-- 🌐 Experience working with **health tech firms**, **academic institutions**, and **multinational sponsors**
+- 🌍 Extensive experience in **clinical trials, research operations, and medical writing**  
+- 🤝 Collaborated with top med-tech firms and CROs across North America, Europe & Australia  
+- 🧭 Now transitioning to roles in **data-driven optimization and AI applications**  
 - 📍 Based in **Okanagan, British Columbia, Canada**
-- 💬 Passionate about **ethical AI**, **systemic thinking**, and **translating research into action**
 
 ---
 
-## 🔗 Let’s Connect
+## 🔗 Connect With Me
 
 - 🌐 [Portfolio Website](https://vddquest.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vincent-dunlop-663377298/)
@@ -53,6 +45,8 @@ My goal is to apply these skills to complex, high-impact problems — particular
 
 ---
 
-> _“In a world of complexity, I believe in building tools that make decisions clearer, smarter, and more humane.”_
+> _"Technology should deepen understanding, not replace it — I’m passionate about building systems that amplify human intelligence, not automate it away."_
 
-Thanks for visiting 🌟
+Thanks for visiting — feel free to follow or connect! 🌟
+
+## 🔗 Let’s Connect
