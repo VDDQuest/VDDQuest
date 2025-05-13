@@ -49,7 +49,7 @@ My goal is to apply these skills to complex, high-impact problems — particular
 
 - 🌐 [Portfolio Website](https://vddquest.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vincent-dunlop-663377298/)
-- 📄 [Resume](https://vddquest.github.io/resume.pdf) <!-- Update if hosted elsewhere -->
+- 📄 [Resume](https://vddquest.github.io/docs/CV%20-%20Vincent%20Dunlop%20-%2020250218.pdf)
 
 ---
 
